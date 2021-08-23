@@ -1,0 +1,4 @@
+# Phonebook
+Phone Book is a project that help us in getting a simple STL(Standard Template Library) based solution to store our contacts. This will help user to easily search and manage contacts using this system. The names are present in user-stated formats like alphabetical order, priority (for speed dialing)etc. so that user also can easily find the required person along with their telephone numbers and use search option. For searching operation, users will able to get any particular record using their contact or phone number but the only condition is that, customers record must be available within the file system. 
+
+If no such record will be available, proper error message will be displayed as per user input provided to the system. To provide the search result within short interval of time optimized search algorithm code have been used that will able to provide the results within seconds.
